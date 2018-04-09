@@ -1,0 +1,6 @@
+*.s#*
+*.b#*
+*.tap
+*.job
+*.grbl
+*.probe
